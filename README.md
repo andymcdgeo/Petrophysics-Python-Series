@@ -18,7 +18,7 @@ This series consists of:
 11. Deriving a Porosity - Permeability Relationship - [Medium Link](https://towardsdatascience.com/porosity-permeability-relationships-using-linear-regression-in-python-eef406dc6997)
 12. Enhancing Log Plots With Plot Fills - [Medium Link](https://towardsdatascience.com/enhancing-visualization-of-well-logs-with-plot-fills-72d9dcd10c1b)
 13. Displaying LWD Image Data - [Medium Link](https://andymcdonaldgeo.medium.com/displaying-logging-while-drilling-lwd-image-logs-in-python-4babb6e577ba)
-14. Displaying Lithology Data Using Python and matplotlib [Medium Link](https://andymcdonaldgeo.medium.com/displaying-lithology-data-using-python-and-matplotlib-58b4d251ee7a)
+14. Displaying Lithology Data on a Well Log Plot Using Python [Medium Link](https://andymcdonaldgeo.medium.com/displaying-lithology-data-using-python-and-matplotlib-58b4d251ee7a)
 
 ## Still to come
 
