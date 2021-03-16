@@ -1,0 +1,6 @@
+pandas
+numpy
+lasio
+matplotlib
+seaborn
+missingno

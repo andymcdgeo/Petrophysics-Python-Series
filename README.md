@@ -3,7 +3,12 @@ This series of Jupyter Notebooks take you through various aspects of working wit
 A number of the notebooks are accompanied by either a Blog Post or a Medium article. You can find the full list on my website at:
 http://andymcdonald.scot/python-and-petrophysics
 
-This series consists of:
+**Check out the binder button below** if you want to run these notebooks without needing to download them or install Python.
+
+Binder Button HERE
+
+
+## Series Contents:
 
 1. Loading and Displaying Well Data  - [Medium Link](https://andymcdonaldgeo.medium.com/loading-and-displaying-well-log-data-b9568efd1d8)
 2. Displaying a Well Plot with matplotlib  
@@ -19,6 +24,9 @@ This series consists of:
 12. Enhancing Log Plots With Plot Fills - [Medium Link](https://towardsdatascience.com/enhancing-visualization-of-well-logs-with-plot-fills-72d9dcd10c1b)
 13. Displaying LWD Image Data - [Medium Link](https://andymcdonaldgeo.medium.com/displaying-logging-while-drilling-lwd-image-logs-in-python-4babb6e577ba)
 14. Displaying Lithology Data on a Well Log Plot Using Python [Medium Link](https://andymcdonaldgeo.medium.com/displaying-lithology-data-using-python-and-matplotlib-58b4d251ee7a)
+15. Loading Multiple LAS Files [Medium Link](https://towardsdatascience.com/loading-multiple-well-log-las-files-using-python-39ac35de99dd)
+16. Adding Formation Data to a Log Plot [Medium Link](https://towardsdatascience.com/adding-formation-data-to-a-well-log-plot-3897b96a3967)
+
 
 ## Still to come
 
@@ -28,7 +36,6 @@ This series consists of:
 - Pickling and Unpickling
 - Interactive Petrophysical Plotting
 - Working with visualising mutliple wells
-- Lithology shading
 
 ## Data Sets Used
 
@@ -56,6 +63,9 @@ https://nlog.nl/en
 
 #### Force 2020 XEEK
 - xeek_train_subset.csv
+
+Data was provided by the FORCE Machine Learning competition with well logs and seismic 2020”  
+Bormann P., Aursand P., Dilib F., Dischington P., Manral S. 2020. 2020 FORCE Machine Learning Contest. https://github.com/bolgebrygg/Force-2020-Machine-Learning-competition
 
 FORCE: Machine Predicted Lithology
 https://xeek.ai/challenges/force-well-logs/overview
