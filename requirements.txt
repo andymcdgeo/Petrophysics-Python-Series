@@ -4,3 +4,4 @@ lasio
 matplotlib
 seaborn
 missingno
+dlisio
