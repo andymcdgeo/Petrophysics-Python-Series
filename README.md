@@ -27,6 +27,7 @@ http://andymcdonald.scot/python-and-petrophysics
 14. Displaying Lithology Data on a Well Log Plot Using Python [Medium Link](https://andymcdonaldgeo.medium.com/displaying-lithology-data-using-python-and-matplotlib-58b4d251ee7a)
 15. Loading Multiple LAS Files [Medium Link](https://towardsdatascience.com/loading-multiple-well-log-las-files-using-python-39ac35de99dd)
 16. Adding Formation Data to a Log Plot [Medium Link](https://towardsdatascience.com/adding-formation-data-to-a-well-log-plot-3897b96a3967)
+17. Working with DLIS Files Using DLISIO - [Medium Link]()
 
 
 ## Still to come
@@ -36,7 +37,7 @@ http://andymcdonald.scot/python-and-petrophysics
 - More working with LAS files
 - Pickling and Unpickling
 - Interactive Petrophysical Plotting
-- Working with visualising mutliple wells
+- Visualising mutliple wells
 
 ## Data Sets Used
 
@@ -58,6 +59,7 @@ https://www.equinor.com/en/what-we-do/norwegian-continental-shelf-platforms/volv
 - L0509_comp.las
 - P11-A-02_Composite_MEM_Image_NF.las
 - P11-A-02_SURV.csv
+- NLOG_LIS_LAS_7857_FMS_DSI_MAIN_LOG.DLIS
 
 Dutch offshore and onshore well data can be accessed from:
 https://nlog.nl/en
