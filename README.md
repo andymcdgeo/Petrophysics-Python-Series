@@ -28,7 +28,7 @@ http://andymcdonald.scot/python-and-petrophysics
 15. Loading Multiple LAS Files [Medium Link](https://towardsdatascience.com/loading-multiple-well-log-las-files-using-python-39ac35de99dd)
 16. Adding Formation Data to a Log Plot [Medium Link](https://towardsdatascience.com/adding-formation-data-to-a-well-log-plot-3897b96a3967)
 17. Working with DLIS Files Using DLISIO - [Medium Link]()
-
+18. Unsupervised Machine Learning for Clustering Facies
 
 ## Still to come
 
