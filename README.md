@@ -28,8 +28,12 @@ http://andymcdonald.scot/python-and-petrophysics
 15. Loading Multiple LAS Files [Medium Link](https://towardsdatascience.com/loading-multiple-well-log-las-files-using-python-39ac35de99dd)
 16. Adding Formation Data to a Log Plot [Medium Link](https://towardsdatascience.com/adding-formation-data-to-a-well-log-plot-3897b96a3967)
 17. Working with DLIS Files Using DLISIO - [Medium Link]()
+<<<<<<< HEAD
 18. How to use Unsupervised Learning to Cluster Well Log Data using Python - [Medium](https://towardsdatascience.com/how-to-use-unsupervised-learning-to-cluster-well-log-data-using-python-a552713748b5)
 19. Exploring Well Log Data Using the Welly Python Library - [Medium Link](https://andymcdonaldgeo.medium.com/exploring-well-log-data-using-the-welly-python-library-5e808cd3137b)
+=======
+18. Unsupervised Machine Learning for Clustering Facies
+>>>>>>> 3368b4055710fdefc03c137f4eeb27923a7a4d54
 
 ## Still to come
 
