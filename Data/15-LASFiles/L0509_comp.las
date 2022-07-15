@@ -7,18 +7,20 @@ WRAP.       NO: ONE LINE PER DEPTH STEP
 #----   ------    ----                           -----------
 STRT    .M        81.0000                       :First Index Value
 STOP    .M        4879.7006                     :Last Index Value
-STEP    .M        0.0000                        :Frame Spacing
+STEP    .M        0.1000                        :Frame Spacing
 NULL    .         -999.2500                     :Absent Value
 WELL    .         L05-B-01                      :Well Name   
-FLD     .         FINDER_composites_22-02-2005  :Field Name  
-CNTY    .                                       :County
-STAT    .                                       :State
-CTRY    .                                       :Country
-LOC     .                                       :Location
+FLD     .         L5                            :Field Name  
+CNTY    .         GLOMAR ADRIATIC XI            :County
+STAT    .         NETHERLANDS                   :State
+CTRY    .         NETHERLANDS                   :Country
+LOC     .         NORTH SEA                     :Location
 API     .                                       :API Number
-DATE    .                                       :Date
+DATE    .         16-Feb-2002                   :Date
 COMP    .         WIN                           :Company Name
 SRVC    .                                       :Service Company
+LATI    .DEG	53 42' 18.113"                 :LATITUDE 
+LONG    .DEG	04 36' 12.526"                 :LONGITUDE 
 ~Parameter Information
 #MNEM   .UNITS    VALUE                          DESCRIPTION
 #----   ------    -----                          -----------
@@ -35,11 +37,11 @@ composite_curve_qc
 #MNEM   .UNITS    API CODE                       CURVE DESCRIPTION
 #----   ------    --------                       -----------------
 DEPT    .M                                      :1     Index curve
-GR      .GAPI                                   :2     SNAM  
-DT      .US/F                                   :3     SNAM  
-RHOB    .G/C3                                   :4     SNAM  
-DRHO    .G/C3                                   :5     SNAM  
-NPHI    .V/V                                    :6     SNAM  
+GR      .GAPI                                   :2     Gamma Ray  
+DT      .US/F                                   :3     Acoustic Compressional Slowness - DTC  
+RHOB    .G/C3                                   :4     Bulk Density  
+DRHO    .G/C3                                   :5     Density Correction  
+NPHI    .V/V                                    :6     Neutron Porosity  
 ~Ascii Log Data
       81.0000   -999.250000   -999.250000   -999.250000   -999.250000   -999.250000
       81.1000   -999.250000   -999.250000   -999.250000   -999.250000   -999.250000
