@@ -3,11 +3,14 @@ This series of Jupyter Notebooks take you through various aspects of working wit
 A number of the notebooks are accompanied by either a Blog Post or a Medium article. You can find the full list on my website at:
 http://andymcdonald.scot/python-and-petrophysics
 
+[![DOI](https://zenodo.org/badge/256027932.svg)](https://zenodo.org/badge/latestdoi/256027932)
+
 **Check out the binder button below** if you want to run these notebooks without needing to download them or install Python.  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andymcdgeo/Petrophysics-Python-Series/master)  
 *Binder button will be added to all new new notebooks going forward*
 
-
+For citation please use: McDonald, A., 2021, Python and Petrophysics Notebook Series. https://github.com/andymcdgeo/Petrophysics-Python-Series
+[![DOI](https://zenodo.org/badge/256027932.svg)](https://zenodo.org/badge/latestdoi/256027932)
 
 ## Series Contents:
 
