@@ -1,3 +1,4 @@
 /Data_Original
 /.ipynb_checkpoints
 *.png
+.DS_Store
