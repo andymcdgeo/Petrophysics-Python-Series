@@ -1,13 +1,13 @@
+> :warning: During 2023 this repo is planned to be restructured and tidied up.
+> A number of notebooks are currently lacking commentary and will be updated gradually.
+
 # Petrophysics-Python-Series
 This series of Jupyter Notebooks take you through various aspects of working with Python and Petrophysical data.
 A number of the notebooks are accompanied by either a Blog Post or a Medium article. You can find the full list on my website at:
 http://andymcdonald.scot/python-and-petrophysics
 
 **Check out the binder button below** if you want to run these notebooks without needing to download them or install Python.  
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andymcdgeo/Petrophysics-Python-Series/master)  
-*Binder button will be added to all new new notebooks going forward*
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/andymcdgeo/Petrophysics-Python-Series/master) 
 
 ## Series Contents:
 
@@ -33,14 +33,6 @@ http://andymcdonald.scot/python-and-petrophysics
 20. Creating a Core Data Dashboard Using Matplotlib's subplot2grid functionality - [Medium Link](https://towardsdatascience.com/scatterplot-creation-and-visualisation-with-matplotlib-in-python-7bca2a4fa7cf)
 21. Identifying Outliers in Well Log Data Using Boxplots in Matplotlib - [Medium Link](https://andymcdonaldgeo.medium.com/creating-boxplots-of-well-log-data-using-matplotlib-in-python-34c3816e73f4) 
 
-## Still to come
-
-- Prediction of missing data using Machine Learning
-- Data QC 
-- More working with LAS files
-- Pickling and Unpickling
-- Interactive Petrophysical Plotting
-- Visualising mutliple wells
 
 ## Data Sets Used
 
